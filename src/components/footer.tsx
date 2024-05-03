@@ -72,18 +72,18 @@ const Footer: React.FC = () => {
         <div className="sm:flex sm:items-center sm:justify-between">
           <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
             © 2024{" "}
-            <a href="https://github.com/0xQueen/" className="hover:underline">
-              Discord Bot Template
+            <a href="discord.gg/yakkında" className="hover:underline">
+            MİZOKO SHOP
             </a>
             . All Rights Reserved.
           </span>
           <div className="flex mt-4 sm:justify-center sm:mt-0">
-            <FaDiscord
+            <Dİscord
               href="#"
               className="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5"
             />
-            <FaGithub
-              href="https://github.com/0xQueen"
+            <SHOP
+              href="discord.gg/yakkında"
               className="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5"
             />
           </div>
