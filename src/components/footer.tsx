@@ -12,10 +12,7 @@ const Footer: React.FC = () => {
               Mizoko Shop              </span>
               <div className="max-w-xs">
                 <p className="text-sm text-gray-600 dark:text-gray-400 text-wrap md:text-balance break-all">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Ipsum eum placeat quisquam, dicta cumque hic beatae ab, et
-                  nostrum possimus consequuntur voluptatibus tenetur quidem
-                  voluptas autem ullam blanditiis, obcaecati assumenda?
+                 DİSCORD SUNUCULARI PBLİC EKİP GİBİ İSTEDİĞİNİZ SUNUUCU TASARLAMAK İÇİN MİZOKO
                 </p>
               </div>
             </div>
@@ -39,7 +36,7 @@ const Footer: React.FC = () => {
                 </li>
                 <li className="mb-4">
                   <a href="#" className="hover:underline ">
-                    GitHub
+                    Discprd
                   </a>
                 </li>
               </ul>
